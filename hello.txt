@@ -1,0 +1,4 @@
+hello
+hiii
+commiting new line
+4th line to check property of git
